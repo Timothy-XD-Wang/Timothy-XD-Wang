@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Timothy-XD-Wang
+- 👋 Hi, I’m Timothy Wang
 - 👀 I’m interested in Python scripting to automate geoprocessing in ArcGIS
 - 🌱 I’m currently learning scripting for GIS applications
 - 📫 How to reach me: https://www.linkedin.com/in/timothywang-/
